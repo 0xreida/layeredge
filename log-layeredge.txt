@@ -127,3 +127,6 @@
 [07:39:06 | 07-03-2025] Last Claim Point: 05/03/2025 16:14:10
 [07:39:12 | 07-03-2025] ✅ Points claimed for 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3
 [07:39:13 | 07-03-2025] 🚨 Failed to start node for 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3: [object Object]
+[19:14:17 | 07-03-2025] Wallet Address: 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3
+[19:14:17 | 07-03-2025] Node Points: 386009
+[19:14:17 | 07-03-2025] Last Claim Point: 07/03/2025 00:39:12
